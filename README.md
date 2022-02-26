@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maasa085
-- 👀 I’m interested on Learning how to program 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested on Learning AI or Machine Learning as it is my main goal
+- 🌱 I’m currently learning Python(data Science, and AI which includes Pandas, Matplotlib, Tensorflow and much more)
+- 💞️ I would be happy to collaborate with anyone who is good in the feilds of Data Science and ML/AI
 - 📫 How to reach me you can reach me on my account or my mail - maasa085@gmail.com
 Thank you! :)
 
